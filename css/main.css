@@ -83,6 +83,8 @@ body {
     box-shadow: 0px 16px 32px -8px rgba(0, 0, 0, 0.2);
 }
 .card-city {
+    display: flex;
+    align-items: center;
     font-weight: 500;
     font-size: 36px;
     color: #1E1E1E;
@@ -96,7 +98,7 @@ body {
     background: #0F1B60;
     border-radius: 5px;
     color: #FFFFFF;
-    font-size: 15px;
+    font-size: 12px;
 }
 
 .card-weather {
